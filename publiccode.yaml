@@ -1,0 +1,26 @@
+publiccodeYmlVersion: "0.1"
+
+name: "Zaak Registratie Component (ZRC)"
+url: "https://github.com/VNG-Realisatie/gemma-zaken"
+releaseDate: "2020-09-01"
+
+softwareType: standalone/backend
+
+platforms:
+  - web
+  
+categories:
+  - collaboration
+  - it-development
+  
+developmentStatus: beta
+
+description:
+  nl:
+    shortDescription: "Een API om een Zaken API (ZRC) te benaderen."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
+  en:
+    shortDescription: "An API to perform requests on a case register (BRC)"
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
