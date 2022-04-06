@@ -20,7 +20,9 @@ description:
     shortDescription: "Een API om een Zaken API (ZRC) te benaderen."
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
+    testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/zrc_publiccode/main/data/zrc.json'
   en:
     shortDescription: "An API to perform requests on a case register (ZRC)"
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
+    testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/zrc_publiccode/main/data/zrc.json'

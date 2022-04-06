@@ -1,0 +1,89 @@
+{
+  "collection": "https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml",
+  "schemas": {
+    "Zaak": [
+      {
+        "properties": {
+          "bronorganisatie": "999993653",
+          "zaaktype": "https://openzaak.sed-xllnc.commonground.nu/catalogi/api/v1/zaaktypen/1d92456b-ed8e-43e7-ad4a-03b8e8556139",
+          "verantwoordelijkeOrganisatie": "999990639",
+          "startdatum": "2022-03-07",
+          "identificatie": "ZAAK-1",
+          "omschrijving": "Ut velit",
+          "toelichting": "do deserunt ex culpa in",
+          "registratiedatum": "2022-03-07",
+          "uiterlijkeEinddatumAfdoening": "2023-01-01",
+          "vertrouwelijkheidaanduiding": "confidentieel",
+          "betalingsindicatie": "nvt",
+          "archiefnominatie": "blijvend_bewaren",
+          "archiefstatus": "nog_te_archiveren",
+          "archiefactiedatum": "2023-01-01"
+        }
+      }
+    ],
+    "ZaakObject": [
+      {
+        "properties": {
+          "zaak": "http://iaLOgsXYNIJqVTdWyERThjGtV.tybwrZ.sQYFVsM.hRQwO6kUATLGJ7wlmJLfKAF7Wld-TD,.",
+          "objectType": "overige",
+          "object": "http://ZHndvyEyYuwvlCosHvraTEUDrd.kqeNH7T8DqYzZz02-0tTyZ6Ce9ZdP51HbY",
+          "objectTypeOverige": "wucmjle",
+          "relatieomschrijving": "qui Excepteur quis"
+        }
+      }
+    ],
+    "ZaakInformatieObject":[
+      {
+        "properties": {
+          "informatieobject": "http://LzmYwoaXJiwApEyhGBLz.ypNL8AYZQHzz",
+          "zaak": "http://hockEAElTeyQbWkskZbvdl.tzmbcGw",
+          "titel": "dolore nulla",
+          "beschrijving": "mollit"
+        }
+      }
+    ],
+    "Status": [
+      {
+        "properties": {
+          "zaak": "https://HhSOaeJMfPXeBISoJyoaGlcZHM.sbtTB0veuK514-vy0BN74zP,MAKjT1OpWH6",
+          "statustype": "http://mRtbrZTpjXGyObNHcmPecPPgCELiLiZnG.zwi0qXLv+KGfyyOFoSt+ofonVh0POLeWo",
+          "datumStatusGezet": "1991-03-02T16:22:26.620Z",
+          "statustoelichting": "cupidatat non"
+        }
+      }
+    ],
+    "Rol": [
+      {
+        "properties": {
+          "zaak": "http://tizfiHwzCwwUMnxVJzBwX.aqoVF7T9",
+          "betrokkeneType": "medewerker",
+          "roltype": "https://Wbo.shycn.ia2iayyFztfXG68UQ",
+          "roltoelichting": "ullamco in do culpa Duis",
+          "betrokkene": "https://UunqJavugob.gidKT7HVhcCJr480C0",
+          "indicatieMachtiging": "machtiginggever"
+        }
+      }
+    ],
+    "Resultaat":[
+      {
+        "properties": {
+          "zaak": "http://qaezBXCSgutDz.rczUAMxn9xVe0+AwetCs0nIoln-zSXaaiy7ZyGWvn8fkrtx3-TDYArA+SJcGfru",
+          "resultaattype": "http://KqfseDgvzaWhMhbEDMlUQROT.tjhQGEfzHTIBWPD2DQvUX3zCFKwx6W",
+          "toelichting": "pariatur officia"
+        }
+      }
+    ],
+    "KlantContacten": [
+      {
+        "properties": {
+          "zaak": "https://RafsUzonOorzOiaHjhjGJCdjcnWaU.kxtrwkWgIIuVMdTifr3QyFVj.9Ch2V0c5",
+          "datumtijd": "1972-12-18T02:45:49.271Z",
+          "identificatie": "veniam en",
+          "kanaal": "fugiat anim",
+          "onderwerp": "dolor deserunt adipisicing proident id",
+          "toelichting": "Excepteur ut"
+        }
+      }
+    ]
+  }
+}
