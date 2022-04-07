@@ -4,7 +4,22 @@ name: "Zaak Registratie Component (ZRC)"
 url: "https://github.com/VNG-Realisatie/gemma-zaken"
 releaseDate: "2020-09-01"
 
-softwareType: standalone/backend
+softwareType: configurationFiles
+
+inputTypes:
+  - application/json
+  - application/xml
+
+outputTypes:
+  - application/json
+  - application/ld+json
+  - application/hal+json
+  - application/vnd.api+json
+  - application/health+json
+  - application/xml
+  - application/x-yaml
+  - text/csv
+  - text/html
 
 platforms:
   - web
@@ -26,3 +41,8 @@ description:
     documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
     apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/gemma-zaken/master/api-specificatie/zrc/1.2.x/openapi.yaml'
     testDataLocation: 'https://raw.githubusercontent.com/ConductionNL/zrc_publiccode/main/data/zrc.json'
+
+dependsOn:
+  open:
+    - name: common-gateway
+      versionMin: 1.0.0
