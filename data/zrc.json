@@ -4,8 +4,9 @@
     "Zaak": [
       {
         "properties": {
+          "id": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "bronorganisatie": "999993653",
-          "zaaktype": "https://openzaak.sed-xllnc.commonground.nu/catalogi/api/v1/zaaktypen/1d92456b-ed8e-43e7-ad4a-03b8e8556139",
+          "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
           "verantwoordelijkeOrganisatie": "999990639",
           "startdatum": "2022-03-07",
           "identificatie": "ZAAK-1",
@@ -24,7 +25,7 @@
     "ZaakObject": [
       {
         "properties": {
-          "zaak": "http://iaLOgsXYNIJqVTdWyERThjGtV.tybwrZ.sQYFVsM.hRQwO6kUATLGJ7wlmJLfKAF7Wld-TD,.",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "objectType": "overige",
           "object": "http://ZHndvyEyYuwvlCosHvraTEUDrd.kqeNH7T8DqYzZz02-0tTyZ6Ce9ZdP51HbY",
           "objectTypeOverige": "wucmjle",
@@ -35,8 +36,8 @@
     "ZaakInformatieObject":[
       {
         "properties": {
-          "informatieobject": "http://LzmYwoaXJiwApEyhGBLz.ypNL8AYZQHzz",
-          "zaak": "http://hockEAElTeyQbWkskZbvdl.tzmbcGw",
+          "informatieobject": "http://localhost/api/enkelvoudiginformatieobjecten/9b9c8cab-d3d8-44b3-984e-b5bfffc69b27",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "titel": "dolore nulla",
           "beschrijving": "mollit"
         }
@@ -45,8 +46,8 @@
     "Status": [
       {
         "properties": {
-          "zaak": "https://HhSOaeJMfPXeBISoJyoaGlcZHM.sbtTB0veuK514-vy0BN74zP,MAKjT1OpWH6",
-          "statustype": "http://mRtbrZTpjXGyObNHcmPecPPgCELiLiZnG.zwi0qXLv+KGfyyOFoSt+ofonVh0POLeWo",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "statustype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
           "datumStatusGezet": "1991-03-02T16:22:26.620Z",
           "statustoelichting": "cupidatat non"
         }
@@ -55,9 +56,9 @@
     "Rol": [
       {
         "properties": {
-          "zaak": "http://tizfiHwzCwwUMnxVJzBwX.aqoVF7T9",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "betrokkeneType": "medewerker",
-          "roltype": "https://Wbo.shycn.ia2iayyFztfXG68UQ",
+          "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
           "betrokkene": "https://UunqJavugob.gidKT7HVhcCJr480C0",
           "indicatieMachtiging": "machtiginggever"
@@ -67,8 +68,8 @@
     "Resultaat":[
       {
         "properties": {
-          "zaak": "http://qaezBXCSgutDz.rczUAMxn9xVe0+AwetCs0nIoln-zSXaaiy7ZyGWvn8fkrtx3-TDYArA+SJcGfru",
-          "resultaattype": "http://KqfseDgvzaWhMhbEDMlUQROT.tjhQGEfzHTIBWPD2DQvUX3zCFKwx6W",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "resultaattype": "http://localhost/api/resultaattypen/93b10208-daa5-4db0-a83d-fd91e8af5dd0",
           "toelichting": "pariatur officia"
         }
       }
@@ -76,7 +77,7 @@
     "KlantContact": [
       {
         "properties": {
-          "zaak": "https://RafsUzonOorzOiaHjhjGJCdjcnWaU.kxtrwkWgIIuVMdTifr3QyFVj.9Ch2V0c5",
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "datumtijd": "1972-12-18T02:45:49.271Z",
           "identificatie": "veniam en",
           "kanaal": "fugiat anim",
