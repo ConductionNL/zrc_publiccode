@@ -22,6 +22,69 @@
         }
       }
     ],
+    "Zaak": [
+      {
+        "properties": {
+          "id": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "bronorganisatie": "999993653",
+          "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
+          "verantwoordelijkeOrganisatie": "999990639",
+          "startdatum": "2022-03-07",
+          "identificatie": "ZAAK-1",
+          "omschrijving": "Ut velit",
+          "toelichting": "gearchiveerde zaak",
+          "registratiedatum": "2022-03-07",
+          "uiterlijkeEinddatumAfdoening": "2023-01-01",
+          "vertrouwelijkheidaanduiding": "confidentieel",
+          "betalingsindicatie": "nvt",
+          "archiefnominatie": "blijvend_bewaren",
+          "archiefstatus": "gearchiveerd",
+          "archiefactiedatum": "2023-01-01"
+        }
+      }
+    ],
+    "Zaak": [
+      {
+        "properties": {
+          "id": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "bronorganisatie": "999993653",
+          "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
+          "verantwoordelijkeOrganisatie": "999990639",
+          "startdatum": "2022-03-07",
+          "identificatie": "ZAAK-1",
+          "omschrijving": "Ut velit",
+          "toelichting": "procestermijn onbekende zaak",
+          "registratiedatum": "2022-03-07",
+          "uiterlijkeEinddatumAfdoening": "2023-01-01",
+          "vertrouwelijkheidaanduiding": "confidentieel",
+          "betalingsindicatie": "nvt",
+          "archiefnominatie": "blijvend_bewaren",
+          "archiefstatus": "gearchiveerd_procestermijn_onbekend",
+          "archiefactiedatum": "2023-01-01"
+        }
+      }
+    ],
+    "Zaak": [
+      {
+        "properties": {
+          "id": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "bronorganisatie": "999993653",
+          "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
+          "verantwoordelijkeOrganisatie": "999990639",
+          "startdatum": "2022-03-07",
+          "identificatie": "ZAAK-1",
+          "omschrijving": "Ut velit",
+          "toelichting": "overgedragen zaak",
+          "registratiedatum": "2022-03-07",
+          "uiterlijkeEinddatumAfdoening": "2023-01-01",
+          "vertrouwelijkheidaanduiding": "confidentieel",
+          "betalingsindicatie": "nvt",
+          "archiefnominatie": "blijvend_bewaren",
+          "archiefstatus": "overgedragen",
+          "archiefactiedatum": "2023-01-01"
+        }
+      }
+    ],
     "ZaakObject": [
       {
         "properties": {
