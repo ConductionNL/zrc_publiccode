@@ -19,7 +19,8 @@
           "betalingsindicatie": "nvt",
           "archiefnominatie": "blijvend_bewaren",
           "archiefstatus": "nog_te_archiveren",
-          "archiefactiedatum": "2023-01-01"
+          "archiefactiedatum": "2023-01-01",
+          "status": "http://localhost/api/statussen/2e344e43-be2d-4913-bf3e-8cea7182ac07"
         }
       },
       {
@@ -39,7 +40,8 @@
           "betalingsindicatie": "nvt",
           "archiefnominatie": "blijvend_bewaren",
           "archiefstatus": "gearchiveerd",
-          "archiefactiedatum": "2023-01-01"
+          "archiefactiedatum": "2023-01-01",
+          "status": "http://localhost/api/statussen/2e344e43-be2d-4913-bf3e-8cea7182ac07"
         }
       },
       {
@@ -59,7 +61,8 @@
           "betalingsindicatie": "nvt",
           "archiefnominatie": "blijvend_bewaren",
           "archiefstatus": "gearchiveerd_procestermijn_onbekend",
-          "archiefactiedatum": "2023-01-01"
+          "archiefactiedatum": "2023-01-01",
+          "status": "http://localhost/api/statussen/2e344e43-be2d-4913-bf3e-8cea7182ac07"
         }
       },
       {
@@ -69,7 +72,6 @@
           "bronorganisatie": "999993653",
           "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
           "verantwoordelijkeOrganisatie": "999990639",
-          "status": "",
           "startdatum": "2022-03-07",
           "identificatie": "ZAAK-1",
           "omschrijving": "Ut velit",
@@ -80,7 +82,8 @@
           "betalingsindicatie": "nvt",
           "archiefnominatie": "blijvend_bewaren",
           "archiefstatus": "overgedragen",
-          "archiefactiedatum": "2023-01-01"
+          "archiefactiedatum": "2023-01-01",
+          "status": "http://localhost/api/statussen/2e344e43-be2d-4913-bf3e-8cea7182ac07"
         }
       }
     ],
