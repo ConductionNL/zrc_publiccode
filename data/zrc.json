@@ -114,7 +114,15 @@
           "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "statustype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
           "datumStatusGezet": "1991-03-02T16:22:26.620Z",
-          "statustoelichting": "cupidatat non"
+          "statustoelichting": "In behandeling"
+        }
+      },   
+      {
+        "properties": {
+          "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "statustype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
+          "datumStatusGezet": "1991-03-02T16:22:26.620Z",
+          "statustoelichting": "Gesloten"
         }
       }
     ],
