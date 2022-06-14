@@ -5,6 +5,7 @@
       {
         "properties": {
           "id": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "url": "http://localhost/api/zaaktypen/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "uuid": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "bronorganisatie": "999993653",
           "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
@@ -26,6 +27,7 @@
       {
         "properties": {
           "id": "8d4107a4-3c22-45e4-99d6-49067ff80dbc",
+          "url": "http://localhost/api/zaaktypen/8d4107a4-3c22-45e4-99d6-49067ff80dbc",
           "uuid": "8d4107a4-3c22-45e4-99d6-49067ff80dbc",
           "bronorganisatie": "999993653",
           "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
@@ -47,6 +49,7 @@
       {
         "properties": {
           "id": "d7e2274a-2490-4f5d-b900-81007979bb59",
+          "url": "http://localhost/api/zaaktypen/d7e2274a-2490-4f5d-b900-81007979bb59",
           "uuid": "d7e2274a-2490-4f5d-b900-81007979bb59",
           "bronorganisatie": "999993653",
           "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
@@ -67,8 +70,9 @@
       },
       {
         "properties": {
-          "id": "dd3fc472-6fc9-448d-bc0a-9aa0bee6f759",
-          "uuid": "dd3fc472-6fc9-448d-bc0a-9aa0bee6f759",
+          "id": "1fd7fdd8-49e8-4ead-867a-c9f5610e0bdd",
+          "url": "http://localhost/api/zaaktypen/1fd7fdd8-49e8-4ead-867a-c9f5610e0bdd",
+          "uuid": "1fd7fdd8-49e8-4ead-867a-c9f5610e0bdd",
           "bronorganisatie": "999993653",
           "zaaktype": "http://localhost/api/zaaktypen/9516c1cc-6575-486f-a344-7bfbf1847899",
           "verantwoordelijkeOrganisatie": "999990639",
