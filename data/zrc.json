@@ -5,7 +5,7 @@
       {
         "properties": {
           "id": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
-          "url": "http://localhost/api/zaaktypen/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
+          "url": "/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "uuid": "58e07f18-f5f2-4183-95ef-b6fecbb3da91",
           "bronorganisatie": "999993653",
           "zaaktype": "http://localhost/api/zaaktypen/d722ab0d-6f07-411b-93f2-263c1f1abed0",
@@ -27,7 +27,7 @@
       {
         "properties": {
           "id": "8d4107a4-3c22-45e4-99d6-49067ff80dbc",
-          "url": "http://localhost/api/zaaktypen/8d4107a4-3c22-45e4-99d6-49067ff80dbc",
+          "url": "/api/zaken/8d4107a4-3c22-45e4-99d6-49067ff80dbc",
           "uuid": "8d4107a4-3c22-45e4-99d6-49067ff80dbc",
           "bronorganisatie": "999993872",
           "zaaktype": "http://localhost/api/zaaktypen/78ffca25-fda5-4bb3-8df8-a48afdf4c18a",
@@ -48,7 +48,7 @@
       {
         "properties": {
           "id": "d7e2274a-2490-4f5d-b900-81007979bb59",
-          "url": "http://localhost/api/zaaktypen/d7e2274a-2490-4f5d-b900-81007979bb59",
+          "url": "/api/zaken/d7e2274a-2490-4f5d-b900-81007979bb59",
           "uuid": "d7e2274a-2490-4f5d-b900-81007979bb59",
           "bronorganisatie": "123456782",
           "zaaktype": "http://localhost/api/zaaktypen/48338157-325e-4dfc-bc82-5c757373ee8c",
@@ -118,10 +118,20 @@
       {
         "properties": {
           "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
-          "betrokkeneType": "medewerker",
+          "betrokkeneType": "klant",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
-          "betrokkene": "https://UunqJavugob.gidKT7HVhcCJr480C0",
+          "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
+          "indicatieMachtiging": "machtiginggever"
+        }
+      },
+      {
+        "properties": {
+          "zaak": "http://localhost/api/zaken/8d4107a4-3c22-45e4-99d6-49067ff80dbc",
+          "betrokkeneType": "klant",
+          "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
+          "roltoelichting": "ullamco in do culpa Duis",
+          "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
           "indicatieMachtiging": "machtiginggever"
         }
       }
