@@ -11,7 +11,7 @@
           "zaaktype": "http://localhost/api/zaaktypen/d722ab0d-6f07-411b-93f2-263c1f1abed0",
           "verantwoordelijkeOrganisatie": "999993653",
           "startdatum": "2022-08-01",
-          "identificatie": "ZAAK-2",
+          "identificatie": "ZAAK-1",
           "omschrijving": "Aanvraag Bbz voor startende ondernemer",
           "toelichting": "do deserunt ex culpa in",
           "registratiedatum": "2022-08-01",
@@ -30,19 +30,19 @@
           "url": "http://localhost/api/zaaktypen/8d4107a4-3c22-45e4-99d6-49067ff80dbc",
           "uuid": "8d4107a4-3c22-45e4-99d6-49067ff80dbc",
           "bronorganisatie": "999993872",
-          "zaaktype": "http://localhost/api/zaaktypen/d722ab0d-6f07-411b-93f2-263c1f1abed0",
-          "verantwoordelijkeOrganisatie": "999993872",
+          "zaaktype": "http://localhost/api/zaaktypen/78ffca25-fda5-4bb3-8df8-a48afdf4c18a",
+          "verantwoordelijkeOrganisatie": "999990639",
           "startdatum": "2022-07-27",
-          "identificatie": "ZAAK-3",
+          "identificatie": "ZAAK-2",
           "omschrijving": "Aanvraag IOAZ voor onderneming die wil stoppen met bedrijf",
-          "toelichting": "do deserunt ex culpa in",
+          "toelichting": "gearchiveerde zaak",
           "registratiedatum": "2022-07-27",
           "vertrouwelijkheidaanduiding": "confidentieel",
           "betalingsindicatie": "nvt",
           "archiefnominatie": "blijvend_bewaren",
-          "archiefstatus": "nog_te_archiveren",
+          "archiefstatus": "gearchiveerd",
           "archiefactiedatum": "2023-01-01",
-          "status": "http://localhost/api/statussen/c59e346f-e46b-464d-a9a7-9b92a47e665b"
+          "status": "http://localhost/api/statussen/172400cf-82eb-48d7-a300-ab2c0167152f"
         }
       },
       {
@@ -52,9 +52,9 @@
           "uuid": "d7e2274a-2490-4f5d-b900-81007979bb59",
           "bronorganisatie": "123456782",
           "zaaktype": "http://localhost/api/zaaktypen/48338157-325e-4dfc-bc82-5c757373ee8c",
-          "verantwoordelijkeOrganisatie": "123456782",
+          "verantwoordelijkeOrganisatie": "999990639",
           "startdatum": "2022-07-05",
-          "identificatie": "ZAAK-4",
+          "identificatie": "ZAAK-3",
           "omschrijving": "Aanvraag omgevingsvergunning voor bouwen Bibob-plichtig",
           "toelichting": "Dit is een complexe bouwaanvraag met Bibob-toets. Daarom gaat de behandeltermijn verlengd worden met 6 wkn. Deadline wordt dan 11 oktober. De reden voor de vertraging is deels: het verzoek om aanvullende info vanuit de Bibob. En daarnaast het feit dat er met veel buitenlandse financierw wordt gewerkt, dit vraagt meer onderzoek",
           "registratiedatum": "2022-08-30",
@@ -63,7 +63,7 @@
           "archiefnominatie": "blijvend_bewaren",
           "archiefstatus": "gearchiveerd_procestermijn_onbekend",
           "archiefactiedatum": "2023-01-01",
-          "status": "http://localhost/api/statussen/c59e346f-e46b-464d-a9a7-9b92a47e665b"
+          "status": "http://localhost/api/statussen/bc323217-e0ac-400e-8dc2-f8bdd3e5dd0d"
         }
       }
     ],
