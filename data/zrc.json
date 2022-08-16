@@ -140,21 +140,27 @@
       {
         "properties": {
           "zaak": "http://localhost/api/zaken/58e07f18-f5f2-4183-95ef-b6fecbb3da91",
-          "betrokkeneType": "klant",
+          "betrokkeneType": "natuurlijk_persoon",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
           "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
-          "indicatieMachtiging": "machtiginggever"
+          "indicatieMachtiging": "machtiginggever",
+          "betrokkeneIdentificatie": {
+              "inpBsn" : "999993653"
+          }
         }
       },
       {
         "properties": {
           "zaak": "http://localhost/api/zaken/8d4107a4-3c22-45e4-99d6-49067ff80dbc",
-          "betrokkeneType": "klant",
+          "betrokkeneType": "natuurlijk_persoon",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
           "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
-          "indicatieMachtiging": "machtiginggever"
+          "indicatieMachtiging": "machtiginggever",
+          "betrokkeneIdentificatie": {
+              "inpBsn" : "999993653"
+          }
         }
       }
     ],
