@@ -143,12 +143,12 @@
           "betrokkeneType": "medewerker",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
-          "betrokkene": "http://localhost/api/klanten/a8f81845-8f1d-4cb6-85be-640b481bf0a7",
+          "betrokkene": "http://localhost/api/klanten/8c7cc0a2-97dc-4559-9d79-d1107ad6d6a6",
           "indicatieMachtiging": "machtiginggever",
           "betrokkeneIdentificatie": {
-              "inpBsn" : "999990639",
-              "voornamen": "Klaas",
-              "geslachtsnaam": "Vaak"
+              "inpBsn" : "999990172",
+              "voornamen": "Róza Mstyslava",
+              "geslachtsnaam": "Żywiałowska"
           }
         }
       },
@@ -188,12 +188,12 @@
           "betrokkeneType": "medewerker",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
-          "betrokkene": "http://localhost/api/klanten/a8f81845-8f1d-4cb6-85be-640b481bf0a7",
+          "betrokkene": "http://localhost/api/klanten/8c7cc0a2-97dc-4559-9d79-d1107ad6d6a6",
           "indicatieMachtiging": "machtiginggever",
           "betrokkeneIdentificatie": {
-              "inpBsn" : "999990639",
-              "voornamen": "Klaas",
-              "geslachtsnaam": "Vaak"
+              "inpBsn" : "999990172",
+              "voornamen": "Róza Mstyslava",
+              "geslachtsnaam": "Żywiałowska"
           }
         }
       }
