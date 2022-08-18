@@ -161,7 +161,7 @@
           "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
           "indicatieMachtiging": "machtiginggever",
           "betrokkeneIdentificatie": {
-              "inpBsn" : "999993653"
+              "inpBsn" : "999993653",
               "voornamen": "Suzanne",
               "geslachtsnaam": "Moulin"
           }
@@ -176,7 +176,7 @@
           "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
           "indicatieMachtiging": "machtiginggever",
           "betrokkeneIdentificatie": {
-              "inpBsn" : "999993653"
+              "inpBsn" : "999993653",
               "voornamen": "Suzanne",
               "geslachtsnaam": "Moulin"
           }
