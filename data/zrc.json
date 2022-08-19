@@ -141,7 +141,7 @@
         "properties": {
           "zaak": "http://localhost/api/zaken/1b8b2c9c-87ae-49f6-8280-87281c25ae48",
           "betrokkeneType": "medewerker",
-          "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
+          "roltype": "https://localhost/api/roltypen/4bba27cd-be4d-4bd0-bd4e-2f7687e4eab1",
           "roltoelichting": "ullamco in do culpa Duis",
           "betrokkene": "http://localhost/api/klanten/8c7cc0a2-97dc-4559-9d79-d1107ad6d6a6",
           "indicatieMachtiging": "machtiginggever",
