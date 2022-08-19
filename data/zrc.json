@@ -173,7 +173,7 @@
           "betrokkeneType": "natuurlijk_persoon",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
-          "betrokkene": "http://localhost/api/klanten/dfba160f-bbc2-4be0-8b13-dd62b334c050",
+          "betrokkene": "http://localhost/api/ingeschrevenpersonen/78e0bb9c-2c3e-4007-826a-25bc27bf7785",
           "indicatieMachtiging": "machtiginggever",
           "betrokkeneIdentificatie": {
               "inpBsn" : "999993872",
