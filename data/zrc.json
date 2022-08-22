@@ -140,7 +140,7 @@
       {
         "properties": {
           "zaak": "http://localhost/api/zaken/1b8b2c9c-87ae-49f6-8280-87281c25ae48",
-          "betrokkeneType": "medewerker",
+          "betrokkeneType": "natuurlijk_persoon",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
           "betrokkene": "http://localhost/api/klanten/8c7cc0a2-97dc-4559-9d79-d1107ad6d6a6",
@@ -185,7 +185,7 @@
       {
         "properties": {
           "zaak": "http://localhost/api/zaken/d7e2274a-2490-4f5d-b900-81007979bb59",
-          "betrokkeneType": "medewerker",
+          "betrokkeneType": "natuurlijk_persoon",
           "roltype": "https://localhost/api/roltypen/1c8fff49-fc68-43d1-b253-25a29a63a67f",
           "roltoelichting": "ullamco in do culpa Duis",
           "betrokkene": "http://localhost/api/klanten/8c7cc0a2-97dc-4559-9d79-d1107ad6d6a6",
